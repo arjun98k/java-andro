@@ -3,8 +3,11 @@ public class basicvar2 {
         int a = 98;
         // System.out.println(a);
         if (a == 98) {
-            System.outprintln("if i got next job as android dev i will propose her before diwali");
-        
+            System.out.println("if i got next job as android dev i will propose her before diwali");
+           
+        }
+        else{
+            System.out.println("you have to propose  her any cost");
         }
     }
 }
