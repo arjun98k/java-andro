@@ -8,6 +8,7 @@ public class basicvar2 {
         }
         else{
             System.out.println("you have to propose  her any cost");
+            System.out.println("why couldnt she love me back");
         }
     }
 }
