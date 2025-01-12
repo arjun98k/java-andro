@@ -9,6 +9,7 @@ public class basicvar2 {
         else{
             System.out.println("you have to propose  her any cost");
             System.out.println("why couldnt she love me back a");
+            System.out.println("if i put myself in discipline for next 2 months i can achieve lots of things");
         }
     }
 }
