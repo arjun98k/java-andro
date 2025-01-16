@@ -12,6 +12,25 @@ class StringMethod {
 		System.out.println(Akash.toLowerCase());
 
 		System.out.println(s1.indexOf("memepage"));
+
+		// String Concatenation
+// The + operator can be used between strings to combine them. 
+// This is called concatenation:
+
+		String firstname = "arjun";
+		String lastname =  "Kandekar";
+
+		System.out.println(firstname + " " + lastname);
+
+		// we can also use concat() method to concat two
+		// Strings
+		System.out.println(firstname.concat(lastname));
+
+// 		WARNING!
+
+// Java uses the + operator for both addition and concatenation.
+
+// Numbers are added. Strings are concatenated.
 	}
 
 }
