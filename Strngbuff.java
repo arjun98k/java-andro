@@ -11,6 +11,11 @@ public class Strngbuff {
 
 		//StringBuffer replace() Method
 		s1.replace(0,5,"akash");
-		System.out.println(s1);
+		// System.out.println(s1);
+
+		// Stringbuffer reverse() method
+		System.out.println(s1.reverse());
+
+		
 	}
 }
