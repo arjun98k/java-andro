@@ -12,5 +12,11 @@ class StringMethod4 {
     // trim() remove start and space from string
     System.out.println(str1.trim());
 
+    //String equalIgnoreCase(String anotherString)
+    String Str3 = "Arjun";
+    String Str4 = "ARJUN";
+    System.out.println(Str3.equalsIgnoreCase(Str4));
+    
+
 	}
 }
