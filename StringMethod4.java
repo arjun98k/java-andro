@@ -1,3 +1,4 @@
+import java.util.Arrays;
 class StringMethod4 {
 	public static void main(String[] args){
 		String str1 = "   aditya    ";
@@ -10,12 +11,15 @@ class StringMethod4 {
     System.out.println(str1.contains("di")); // true because di present in str1 Aditya
 
     // trim() remove start and space from string
+
     System.out.println(str1.trim());
 
     //String equalIgnoreCase(String anotherString)
     String Str3 = "Arjun";
-    String Str4 = "ARJUN";
-    System.out.println(Str3.equalsIgnoreCase(Str4));
+    String Str4 = "Arjun, Akash, Aditya";
+     String[] ak = Str4.split(",");
+ 
+  System.out.println(Arrays.toString(ak));
     
 
 	}
