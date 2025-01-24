@@ -23,7 +23,7 @@ class StringMethod4 {
   // System.out.println(Arrays.toString(ak));
  for (char a : am ) {
      System.out.println(a);
-     System.out.println("true love kab milega");
+     System.out.println("true love kab milegac pata nahi");
  }
     
 
