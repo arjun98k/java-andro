@@ -4,7 +4,7 @@ public class ComparisonOperator {
 		int b = 100;
 		int c = 120;
 		System.out.println(a<b && c>b);
-		System.out.println("hey");
+		System.out.println("hey how aewer youjj");
 	}
     
 }
