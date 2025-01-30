@@ -24,6 +24,7 @@ class StringMethod4 {
  for (char a : am ) {
      System.out.println(a);
      System.out.println("true love kab milegac pata nahi , ir bhi i love you madam ji");
+     System.out.println("hey");
  }
     
 
