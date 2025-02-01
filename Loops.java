@@ -9,11 +9,14 @@ class Loops {
 
 		// do while loop
 		int z = 1;
-		do {
-			System.out.println("check the age ");
-			z++;
+		// do {
+		// 	System.out.println("check the age ");
+		// 	z++;
 
-		}while (z < 0);
+		// }while (z < 0);
+		for (; z < 5; z++) {
+			System.out.println("i love cricket");
+		}
 
 	}
 }
