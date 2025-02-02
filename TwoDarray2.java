@@ -1,5 +1,8 @@
 public class TwoDarray2 {
     public static void main(String[] args) {
+       
+        // jagged arrays length which mean arrays of arrays can be different length
+       
         char arr [][] = {
             {'a','b'},
             {'c','d'},
