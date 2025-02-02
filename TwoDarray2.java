@@ -5,7 +5,7 @@ public class TwoDarray2 {
        
         char arr [][] = {
             {'a','b'},
-            {'c','d'},
+            {'c','d', 'e'},
             {'e','f'},
     };
 
