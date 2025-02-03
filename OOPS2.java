@@ -15,7 +15,7 @@ class OOPS2 {
     public static void main(String[] args) {
         
     Dog sc = new Dog();
-    //polymorphism
+    //Inheritance
     System.out.println(sc.Animal_sound);
 
     }
