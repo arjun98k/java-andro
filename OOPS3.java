@@ -25,7 +25,7 @@ class OOPS3 {
 
 		Animals dog = new Dog();
 		Animals cat = new Cat(); 
-		
+		//polymorphism example
 		dog.makesound();
 		cat.makesound();
 
