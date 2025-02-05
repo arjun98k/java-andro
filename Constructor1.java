@@ -6,7 +6,7 @@ class Default1{
 }
 
 public Default1(String name){
-	// this.name = name;
+	
 	System.out.println(name);
 
 }
