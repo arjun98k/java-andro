@@ -36,7 +36,7 @@ public class PrimeNum {
         }
         else{
             System.out.println("it is not prime");
-            System.out.println(bc +);
+            System.out.println("it is not prime"+ bc);
         }
       
 
