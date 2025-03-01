@@ -32,7 +32,7 @@ public class PrimeNum {
         int bc = ac.nextInt();
         
         if (isPrime(bc)) {
-            System.out.println("it is prime number");
+            System.out.println("it is prime number "+ bc);
         }
         else{
             System.out.println("it is not prime");
