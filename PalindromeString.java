@@ -5,6 +5,6 @@ public class PalindromeString {
         return str.equals(rev);
     }
     public static void main(String[] args) {
-        System.out.println(isPalindrome("radar"));
+        System.out.println(isPalindrome("radar".toLowerCase()));
     }
 }
