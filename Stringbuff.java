@@ -10,6 +10,11 @@ class Stringbuff{
 		System.out.println(str1);
 		StringBuilder str2 = new StringBuilder("aditya");
 		System.out.println(str2.append(" Kandekar"));
+		System.out.println(str2.delete(6, 15));
+		System.out.println(str2);
+
+		// System.out.println(str2.reverse());
+		System.out.println(str2.insert(6," jadhav" ));
 		
 		
 	}
