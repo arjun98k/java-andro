@@ -8,6 +8,8 @@ class Stringbuff{
 		}
 
 		System.out.println(str1);
+		StringBuilder str2 = new StringBuilder("aditya");
+		System.out.println(str2.append(" Kandekar"));
 		
 		
 	}
