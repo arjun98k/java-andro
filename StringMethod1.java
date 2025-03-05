@@ -1,6 +1,6 @@
 public class StringMethod1 {
     public static void main(String[] args) {
-        String str1 = "Arjun";
+        String str1 = "Arjun   ";
 
 //         1. charAt(int index)
 // Description: Returns the character at the specified index of the string.
@@ -20,6 +20,11 @@ public class StringMethod1 {
 // Usage: To extract a part of the string.
             
 System.out.println(str1.substring(1, 3));
+// 6. trim()
+
+// Description: Removes leading and trailing whitespace from the string.
+// Usage: To clean up spaces from the beginning and end of the string.
+     System.out.println(str1.trim());
 
     }
 }
