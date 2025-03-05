@@ -5,8 +5,6 @@ class Stringbuff{
 		for (int i = 0; i < 10; i++) {
 			str1.append('a');
 
-		}
-
 		System.out.println(str1);
 		StringBuilder str2 = new StringBuilder("aditya");
 		System.out.println(str2.append(" Kandekar"));
@@ -15,7 +13,15 @@ class Stringbuff{
 
 		// System.out.println(str2.reverse());
 		System.out.println(str2.insert(6," jadhav" ));
+
+		String str4 = "arjun Jadhav";
+
+		StringBuffer str5 = new StringBuffer("Arjun");
+		System.out.println(str5.capacity());
+
+	
 		
 		
+	}
 	}
 }
