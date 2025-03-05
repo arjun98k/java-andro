@@ -15,5 +15,11 @@ public class StringMethod1 {
         
            System.out.println(str1.length());
 
+//            3. substring(int beginIndex, int endIndex)
+// Description: Returns a new string that is a substring of the original string, starting at beginIndex and ending before endIndex.
+// Usage: To extract a part of the string.
+            
+System.out.println(str1.substring(1, 3));
+
     }
 }
