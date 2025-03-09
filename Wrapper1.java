@@ -3,5 +3,6 @@ class Wrapper1 {
 		String a = "hello";
 		System.out.println(a.toUpperCase());
 		System.out.println(a.toLowerCase());
+		System.out.println(a.trim());
 	}
 }
