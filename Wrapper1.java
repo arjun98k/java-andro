@@ -7,6 +7,7 @@ class Wrapper1 {
 		System.out.println(a.toString());
 		Integer b = 1;
 		System.out.println(b.getClass());
+		System.out.println(Integer.toBinaryString(20));
 		int d = b;
 		System.out.println(d);
 	}
