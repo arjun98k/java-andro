@@ -5,5 +5,9 @@ class Wrapper1 {
 		System.out.println(a.toLowerCase());
 		System.out.println(a.trim());
 		System.out.println(a.toString());
+		Integer b = 1;
+		System.out.println(b.getClass());
+		int d = b;
+		System.out.println(d);
 	}
 }
