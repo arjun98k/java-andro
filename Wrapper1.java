@@ -10,5 +10,9 @@ class Wrapper1 {
 		System.out.println(Integer.toBinaryString(20));
 		int d = b;
 		System.out.println(d);
+
+		String aa = "98";
+		  Integer.valueOf(aa);
+		System.out.println(aa);
 	}
 }
